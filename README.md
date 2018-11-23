@@ -1,3 +1,5 @@
+WIP - demo : https://trusting-jones-4015a2.netlify.com/
+
 # Webcam based game
 
 This game is using trackingJs, React, Redux, getUserMedia API ... 
